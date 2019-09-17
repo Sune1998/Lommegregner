@@ -10,6 +10,7 @@ public class test {
         System.out.println("1 / 1 er" + 1 / 1);
         System.out.println("1 * 1 er " + 1 * 1);
         System.out.println("1 - 1 er" + (1 - 1));
+        System.out.println(Math.pow(4 , 2) + Math.pow(10 , 2));
 
 
 

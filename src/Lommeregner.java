@@ -17,7 +17,11 @@ public class Lommeregner {
  public int divi (int a , int b) {
         int resultat = a / b;
         return resultat;
-}
 
+}
+private int pythagoras (double a , double b) {
+        int resultat = (int) ((int) Math.pow(a, 2) + Math.pow(b , 2));
+        return resultat;
+}
     }
 
